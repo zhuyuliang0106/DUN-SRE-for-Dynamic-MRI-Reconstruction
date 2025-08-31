@@ -7,6 +7,11 @@ Authors: Yuliang Zhu, Jing Cheng, Qi Xie, Zhuo-Xu Cui, Qingyong Zhu, Yuanyuan Li
   
 code of "DUN-SRE: Deep Unrolling Network with Spatiotemporal Rotation Equivariance for Dynamic MRI Reconstruction"
 
+## Usage:
+```
+Detail usage can be found in the corresponding subfolders.
+```
+
 ## Citation
 ```
 @article{zhu2025dunsre,
