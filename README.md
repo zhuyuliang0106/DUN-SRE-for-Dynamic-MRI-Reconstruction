@@ -12,6 +12,17 @@
 Detail usage can be found in the corresponding subfolders.
 ```
 
+## 📂 Training with Real Dataset
+
+This project uses an **in-vivo cardiac Cine MR dataset**, which cannot be publicly released due to institutional data sharing restrictions.
+
+If you are interested in reproducing the results, please contact the authors for potential collaboration or use publicly available alternatives such as:
+
+- [OCMR](https://www.ocmr.info/)
+- [CMRxRecon](https://www.synapse.org/Synapse:syn51471091/wiki/622170)
+
+---
+
 ## Citation
 ```
 @article{zhu2025dunsre,
