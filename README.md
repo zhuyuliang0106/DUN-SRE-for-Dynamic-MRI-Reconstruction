@@ -12,7 +12,7 @@
 Detail usage can be found in the corresponding subfolders.
 ```
 
-## 📂 Training with Real Dataset
+## 📂 Dataset
 
 This project uses **in-vivo cardiac Cine MR datasets**.
 
