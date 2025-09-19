@@ -34,7 +34,7 @@ This project uses **in-vivo cardiac Cine MR datasets**.
 ## Acknowledgement
 
 This work is built upon the [F_conv](https://github.com/XieQi2015/F-Conv) implementation.  
-We sincerely thank the original authors Qi Xie *et al.* for sharing their code and making this research possible.
+We sincerely thank the original authors Qi Xie *et al.* for their excellent work and open-source contribution.
 
 ---
 
