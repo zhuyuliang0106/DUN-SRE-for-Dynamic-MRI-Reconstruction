@@ -19,7 +19,6 @@ This project uses an **in-vivo cardiac Cine MR dataset**, which cannot be public
 If you are interested in reproducing the results, please contact the authors for potential collaboration or use publicly available alternatives such as:
 
 - [OCMR](https://www.ocmr.info/)
-- [CMRxRecon](https://www.synapse.org/Synapse:syn51471091/wiki/622170)
 
 ---
 
