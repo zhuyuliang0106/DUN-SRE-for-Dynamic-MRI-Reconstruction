@@ -1,7 +1,7 @@
 # DUN-SRE-for-Dynamic-MRI-Reconstruction
 **DUN-SRE: Deep Unrolling Network with Spatiotemporal Rotation Equivariance for Dynamic MRI Reconstruction**
 
-📄 **[Read the paper here](https://arxiv.org/abs/2506.10309)**
+📄 **[Read the paper here](https://ieeexplore.ieee.org/document/11194196)**
 
 ✏️ Authors: Yuliang Zhu, Jing Cheng, Qi Xie, Zhuo-Xu Cui, Qingyong Zhu, Yuanyuan Liu, Xin Liu, Jianfeng Ren, Chengbo Wang, Dong Liang
 
